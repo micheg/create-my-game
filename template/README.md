@@ -8,7 +8,7 @@ This project was bootstrapped with `create-my-game`.
 
 ## Start DEV
 
-    npm run preview
+    npm run dev
 
 ## build
 
