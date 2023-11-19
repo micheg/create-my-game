@@ -1,7 +1,7 @@
 # create-my-game
 
 <p align="center">
-  <img width="512" height="473" />
+    <img width="512" height="512" src="https://github.com/micheg/create-my-game/blob/main/logo.png?raw=true">
 </p>
 
 ---
