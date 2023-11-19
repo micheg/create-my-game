@@ -38,5 +38,6 @@ fs.writeFileSync(
 
 console.log('Success! Your new Base Phaser 3 Game is ready.');
 console.log(`Created ${project_name} at ${project_dir}`);
-console.log(`Proceded with cd ${project_name}`);
+console.log(`Proceded with:`);
+console.log(`cd ${project_name}`);
 console.log(`npm install`);
