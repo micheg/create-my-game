@@ -6,7 +6,6 @@ if(process.argv.length < 3)
     process.exit(1);
 }
 
-const spawn = require('cross-spawn');
 const fs = require('fs');
 const path = require('path');
 // Project Name
