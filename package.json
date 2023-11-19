@@ -1,6 +1,6 @@
 {
     "name": "create-my-game",
-    "version": "1.0.6",
+    "version": "1.1.0",
     "description": "Tool to create a basic Phaser3 Vite Project",
     "bin": {
         "create-my-game": "./cmg.js"
