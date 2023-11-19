@@ -1,12 +1,9 @@
 {
     "name": "create-my-game",
-    "version": "1.0.2",
+    "version": "1.0.3a",
     "description": "Tool to create a basic Phaser3 Vite Project",
     "bin": {
         "create-my-game": "./index.js"
-    },
-    "scripts": {
-        "create-my-game": "node ./index.js"
     },
     "repository": {
         "type": "git",
@@ -24,8 +21,5 @@
     "bugs": {
         "url": "https://github.com/micheg/create-my-game/issues"
     },
-    "homepage": "https://github.com/micheg/create-my-game#readme",
-    "dependencies": {
-        "cross-spawn": "^7.0.3"
-    }
+    "homepage": "https://github.com/micheg/create-my-game#readme"
 }

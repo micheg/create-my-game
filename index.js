@@ -30,9 +30,5 @@ fs.writeFileSync(
     JSON.stringify(_package_json, null, 2)
 );
 
-console.log(`installing package for game ${project_name}`);
-process.chdir(project_dir);
-spawn.sync('npm', ['install'], { stdio: 'inherit' });
-
 console.log('Success! Your new Base Phaser 3 Game is ready.');
 console.log(`Created ${project_name} at ${project_dir}`);
