@@ -3,5 +3,5 @@
 Tool to create a basic Phaser3 Vite Project
 
 ```bash
-$ npx create-my-game name
+npx create-my-game name
 ```
