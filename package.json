@@ -1,0 +1,28 @@
+{
+    "name": "create-my-game",
+    "version": "1.0.0",
+    "description": "Tool to create a basic Phaser3 Vite Project",
+    "bin": {
+        "create-my-game": "./index.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/micheg/create-my-game.git"
+    },
+    "keywords": [
+        "template",
+        "phaser",
+        "phaser3",
+        "vite",
+        "games"
+    ],
+    "author": "Michelangelo Giacomelli <michelangelo@etik.com>",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/micheg/create-my-game/issues"
+    },
+    "homepage": "https://github.com/micheg/create-my-game#readme",
+    "dependencies": {
+        "cross-spawn": "^7.0.3"
+    }
+}

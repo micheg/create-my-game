@@ -1,0 +1,16 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+body {
+  background: #000;
+  overflow: hidden;
+}
+
+canvas {
+  touch-action-delay: none;
+  touch-action: none;
+  -ms-touch-action: none;
+  display: block;
+}
